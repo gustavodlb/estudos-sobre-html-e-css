@@ -1,2 +1,5 @@
 # estudos-sobre-html-e-css
  Curso do Gustavo Guanabara
+
+ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios.
+
