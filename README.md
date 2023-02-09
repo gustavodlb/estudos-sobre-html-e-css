@@ -1,5 +1,5 @@
 # estudos-sobre-html-e-css
- Curso do Gustavo Guanabara
+ Projeto do curso html5 + css3 do curso em video do professor Guanabara.
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios.
 
