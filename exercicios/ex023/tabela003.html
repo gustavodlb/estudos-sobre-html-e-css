@@ -15,6 +15,7 @@
             width: 600px;
             height: 50px;
             border-collapse:collapse ;
+            position: relative;
         }
 
         td, th {
@@ -28,9 +29,15 @@
             padding: 10px;
             background-color: lightgray;
         }
+
+        thead > tr > th {
+            position: sticky;
+            top: -1px;
+            background-color: #383838;
+        }
         
         thead, tfoot {
-            background-color: gray;
+            background-color: #383838;
             color: white;
         }
         
